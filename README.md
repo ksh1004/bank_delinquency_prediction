@@ -1,7 +1,5 @@
 # 거시경제 지표로 다음 분기 은행 연체율(NPL)을 예측할 수 있을까?
 
-> **"Can macroeconomic indicators predict next-quarter bank NPL ratios?"**
-
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.6-green)](https://lightgbm.readthedocs.io/)
 [![SHAP](https://img.shields.io/badge/SHAP-0.51-orange)](https://shap.readthedocs.io/)
